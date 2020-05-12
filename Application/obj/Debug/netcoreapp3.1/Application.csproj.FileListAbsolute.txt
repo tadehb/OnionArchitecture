@@ -1,0 +1,14 @@
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Tadeh\TBBackgroungImage\Application\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Tadeh\TBBackgroungImage\Application\obj\Debug\netcoreapp3.1\Application.pdb

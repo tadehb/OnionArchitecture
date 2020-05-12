@@ -1,0 +1,9 @@
+C:\Tadeh\TBBackgroungImage\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Tadeh\TBBackgroungImage\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Tadeh\TBBackgroungImage\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Tadeh\TBBackgroungImage\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Tadeh\TBBackgroungImage\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Tadeh\TBBackgroungImage\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Tadeh\TBBackgroungImage\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+C:\Tadeh\TBBackgroungImage\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Tadeh\TBBackgroungImage\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
